@@ -1,2 +1,3 @@
 # Medimate
-medical management system
+Medical Management System
+
